@@ -50,6 +50,12 @@ Enhance UI with better layouts.
 
 ![Project of Hotel Management App in java (1)_page-0005](https://github.com/user-attachments/assets/486bc156-eb13-4ff6-8be1-3a395b5d34c0)
 
+![Project of Hotel Management App in java (1)_page-0006](https://github.com/user-attachments/assets/69f994f5-34ef-4d5e-99a0-54b72ea69f26)
+
+![Project of Hotel Management App in java (1)_page-0007](https://github.com/user-attachments/assets/2abb3fda-0ef0-401d-b776-fac99b0a457a)
+
+
+
 
 
 
